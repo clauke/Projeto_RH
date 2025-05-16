@@ -1,0 +1,251 @@
+Nome,Idade,Gênero,Departamento,Data_Admissao,Ultima_Avaliacao,Salario,Status,Motivo_Saida,Dias_Afastado
+João da Silva,39,Feminino,RH,25/07/2016,2.0,7539,Ativo,NA,0
+Maria Clara,34,masc,RH,2022-04-15,2.1,6557,Ativo,NA, 
+Beatriz Souza,quarenta,feminina,Vendas,15/01/2016,2.2,13476,Ativo,NA,14
+Juliana Alves,25,M,Marketing,21/01/2019,3.8,R$4000,Desligado,Demissão voluntária,7
+Juliana Alves,32,M,TI,2019-02-25,2.3,13498,Ativo,NA,
+Carlos Eduardo,30,feminina,Marketing,2022-09-05,4.4,5752,Desligado,Demissão voluntária,8
+Maria Clara,26,Feminino,Financeiro,2022-03-18,1.6,5102,Desligado,Demissão involuntária, 
+Maria Clara,28,fem,Vendas,25/03/2016,2.4,11771,Desligado,Demissão voluntária,-5
+Fernanda Lima,36,M,Vendas,2021-01-08,2.5,120807,Desligado,Demissão involuntária,14
+Beatriz Souza,quarenta,masc,Vendas,05/01/2022,1.6,10837,Desligado,Demissão involuntária,0
+Felipe Santos,quarenta,fem,RH,12/05/2021,3.9,R$4000,Ativo,NA,
+Beatriz Souza,31,Feminino,Marketing,21/06/2023,2.6,4443,Desligado,Demissão voluntária,14
+Maria Clara,34,feminina,Vendas,06/08/2021,3.4,3163,Ativo,NA,2
+Felipe Santos,quarenta,feminina,Financeiro,27/05/2017,2.7,4011,Ativo,NA,-5
+Maria Clara,26,M,Financeiro,2019-10-01,2.8,2887,Ativo,NA, 
+João da Silva,quarenta,Feminino,Marketing,2016-07-28,2.9,6092,Desligado,Demissão involuntária,3
+Fernanda Lima,20,Feminino,RH,2020-06-12,3.0,R$4000,Desligado,Demissão voluntária, 
+Lucas Rocha,30,M,Marketing,2023-01-21,3.1,5566,Ativo,NA,10
+Ana Paula,,masc,Marketing,06/10/2016,4.4,11749,Ativo,NA,12
+Rafael Costa,35,masc,Vendas,2022-05-16,4.7,7884,Ativo,NA,-5
+Carlos Eduardo,24,feminina,Vendas,08/02/2015,1.3,5289,Ativo,NA,11
+Maria Clara,50,Feminino,Financeiro,2022-11-21,3.2,10666,Desligado,Demissão voluntária,
+Beatriz Souza,27,M,Marketing,2018-01-20,3.3,R$4000,Desligado,Demissão involuntária, 
+Ana Paula,41,feminina,Vendas,15/01/2015,3.4,7352,Desligado,Demissão voluntária,0
+João da Silva,29,feminina,Marketing,2016-08-29,3.5,7974,Desligado,Demissão involuntária,7
+Felipe Santos,42,masc,RH,27/08/2017,4.5,11770,Desligado,Demissão voluntária, 
+Carlos Eduardo,43,fem,Financeiro,2017-03-28,2.4,5652,Ativo,NA, 
+Beatriz Souza,44,feminina,Marketing,2022-08-15,4.8,R$4000,Desligado,Demissão voluntária,-5
+Felipe Santos,45,masc,Marketing,18/04/2016,3.6,9144,Ativo,NA,-5
+João da Silva,46,M,Vendas,2018-05-15,3.7,12450,Ativo,NA,-5
+Juliana Alves,47,Masculino,Marketing,2018-05-29,3.8,9987,Desligado,Aposentadoria,
+Fernanda Lima,quarenta,M,Vendas,2020-10-12,1.4,3557,Ativo,NA,
+Ana Paula,quarenta,Masculino,Marketing,2015-10-26,3.9,R$4000,Desligado,Demissão voluntária,
+Carlos Eduardo,20,Masculino,RH,2022-10-21,1.2,5595,Ativo,NA, 
+Lucas Rocha,48,masc,Financeiro,2023-05-05,2.8,9460,Desligado,Demissão involuntária, 
+Lucas Rocha,49,Feminino,TI,07/10/2018,1.6,R$4000,Ativo,NA,-5
+Juliana Alves,50,Masculino,Vendas,2019-09-17,4.0,13395,Desligado,Aposentadoria, 
+Beatriz Souza,22,masc,Marketing,21/12/2023,4.1,10874,Ativo,NA, 
+Juliana Alves,23,Feminino,Marketing,2015-04-21,4.2,2444,Desligado,Demissão involuntária,
+Ana Paula,24,feminina,RH,2018-08-31,4.3,13047,Desligado,Demissão voluntária,15
+Fernanda Lima,25,Feminino,Vendas,05/10/2023,4.0,5266,Ativo,NA,
+Lucas Rocha,quarenta,Masculino,TI,08/08/2023,4.4,13769,Ativo,NA,9
+Rafael Costa,26,masc,Financeiro,13/06/2019,4.5,R$4000,Ativo,NA,9
+Rafael Costa,27,masc,Financeiro,02/06/2022,4.6,7415,Desligado,Demissão voluntária, 
+Lucas Rocha,28,Feminino,Marketing,2018-01-11,4.7,5735,Desligado,Demissão involuntária, 
+Lucas Rocha,29,masc,Marketing,2019-04-02,4.8,11825,Ativo,NA, 
+Felipe Santos,30,masc,Vendas,17/10/2020,4.9,R$4000,Desligado,Demissão voluntária,-5
+Ana Paula,31,Feminino,Financeiro,2017-09-23,5.0,7141,Desligado,Demissão involuntária, 
+Felipe Santos,32,feminina,TI,02/08/2017,0.0,R$4000,Ativo,NA,-5
+Beatriz Souza,33,fem,RH,2017-07-20,1.7,R$4000,Desligado,Demissão voluntária, 
+Carlos Eduardo,29,fem,Vendas,2018-03-10,0.1,5020,Desligado,Demissão voluntária,3
+Juliana Alves,51,masc,Vendas,2016-09-03,1.3,3150,Ativo,NA,-5
+Lucas Rocha,34,masc,Financeiro,04/06/2018,0.2,R$4000,Ativo,NA,8
+Carlos Eduardo,quarenta,masc,Vendas,2015-01-11,0.3,6415,Ativo,NA, 
+Beatriz Souza,49,M,RH,19/12/2017,0.4,R$4000,Desligado,Demissão involuntária,2
+Carlos Eduardo,35,Masculino,Vendas,2022-09-21,0.5,9006,Desligado,Demissão voluntária,19
+Juliana Alves,36,fem,Vendas,26/07/2017,0.6,6415,Ativo,NA,-5
+Beatriz Souza,37,M,Financeiro,2020-04-09,0.7,12979,Ativo,NA,-5
+Lucas Rocha,38,masc,Vendas,2015-12-27,2.0,7671,Ativo,NA,-5
+Juliana Alves,quarenta,masc,TI,2023-06-26,3.5,2445,Ativo,NA,-5
+Lucas Rocha,27,M,Marketing,18/12/2023,2.2,4685,Ativo,NA,7
+Lucas Rocha,quarenta,Masculino,TI,2022-11-29,0.8,R$4000,Desligado,Demissão voluntária,-5
+Maria Clara,quarenta,fem,TI,2023-11-10,0.9,6377,Desligado, ,-5
+Carlos Eduardo,39,feminina,TI,2023-07-22,1.0,R$4000,Desligado,Demissão involuntária,13
+Felipe Santos,40,Masculino,RH,21/07/2020,1.1,7439,Desligado,Demissão voluntária,-5
+Ana Paula,41,M,RH,2020-04-07,1.2,8512,Desligado,Demissão involuntária,-5
+Felipe Santos,42,masc,Vendas,04/12/2021,1.3,5727,Desligado,Demissão voluntária,20
+Lucas Rocha,43,fem,Vendas,21/08/2018,1.4,R$4000,Ativo,NA,-5
+Rafael Costa,quarenta,Feminino,Vendas,01/11/2021,1.5,R$4000,Desligado,Demissão voluntária,-5
+Beatriz Souza,44,feminina,Marketing,2015-10-30,1.6,5845,Desligado,NA,
+Juliana Alves,50,Feminino,Financeiro,2019-01-10,1.7,6262,Desligado,Demissão voluntária,18
+Rafael Costa,45,Feminino,Marketing,29/12/2023,1.8,R$4000,Ativo,NA,20
+Beatriz Souza,48,masc,TI,19/03/2023,1.9,4897,Ativo,NA,
+Fernanda Lima,46,Feminino,TI,2018-04-23,2.0,R$4000,Ativo,NA, 
+João da Silva,45,feminina,Marketing,2020-02-06,2.1,3458,Desligado,Demissão voluntária,-5
+Ana Paula,47,masc,RH,2015-09-16,2.2,4789,Ativo,NA,4
+Ana Paula,48,fem,Vendas,19/08/2017,2.3,5354,Ativo,NA,13
+Lucas Rocha,49,feminina,Vendas,28/09/2022,2.8,7942,Desligado,Aposentadoria, 
+Ana Paula,50,Feminino,Vendas,06/02/2020,2.4,2349,Desligado,Demissão involuntária,
+João da Silva,quarenta,masc,RH,12/08/2017,2.5,6898,Ativo,NA, 
+Carlos Eduardo,27,Feminino,Vendas,07/01/2019,3.4,5368,Ativo,NA,-5
+Fernanda Lima,27,Masculino,Financeiro,22/09/2023,2.8,12077,Desligado,Demissão voluntária,20
+Ana Paula,,Masculino,Vendas,2022-12-27,1.3,R$4000,Ativo,NA, 
+Rafael Costa,,Masculino,Marketing,2018-04-22,2.6,3624,Ativo,NA,-5
+Maria Clara,,Masculino,Financeiro,31/08/2019,2.7,4635,Desligado,Demissão involuntária,15
+João da Silva,25,Masculino,Vendas,2023-04-15,2.8,7463,Ativo,NA, 
+Juliana Alves,52,masc,TI,11/12/2018,2.9,5674,Desligado,Demissão involuntária,11
+Beatriz Souza,quarenta,Masculino,Marketing,10/08/2023,3.0,8635,Ativo,NA, 
+Beatriz Souza,53,fem,RH,2021-05-08,3.1,12373,Ativo,NA,
+Juliana Alves,54,feminina,RH,2018-06-30,3.2,11768,Ativo,NA,
+Rafael Costa,23,feminina,Financeiro,2019-10-03,3.3,R$4000,Ativo,NA,-5
+João da Silva,55,masc,TI,2017-06-22,4.9,R$4000,Desligado,Demissão involuntária, 
+Beatriz Souza,40,fem,Financeiro,18/05/2023,3.4,R$4000,Desligado,Demissão voluntária,12
+Juliana Alves,56,fem,TI,2019-10-25,3.5,6743,Desligado,Demissão voluntária,
+Rafael Costa,57,fem,Financeiro,2017-09-23,3.6,3564,Desligado,Aposentadoria,
+Felipe Santos,30,masc,Vendas,13/12/2020,3.7,R$4000,Ativo,NA,
+Beatriz Souza,quarenta,masc,RH,11/07/2023,3.8,4687,Desligado,Demissão voluntária, 
+Felipe Santos,58,fem,Financeiro,2022-01-30,3.9,6898,Ativo,NA,-5
+Lucas Rocha,22,feminina,TI,11/11/2015,4.0,4589,Ativo,NA,
+Felipe Santos,60,masc,RH,11/09/2015,4.1,13703,Ativo,NA,
+Lucas Rocha,quarenta,feminina,TI,2019-05-06,4.2,11795,Desligado,Demissão voluntária,10
+Fernanda Lima,22,feminina,Marketing,07/09/2016,3.3,3687,Desligado,Demissão involuntária,19
+Beatriz Souza,23,M,TI,07/06/2016,4.3,3987,Ativo,NA, 
+Carlos Eduardo,24,Masculino,RH,16/07/2017,1.3,10317,Desligado,Demissão voluntária,-5
+Carlos Eduardo,quarenta,M,Marketing,2023-02-01,4.4,R$4000,Desligado,Demissão involuntária,-5
+Maria Clara,quarenta,feminina,Financeiro,2019-02-15,4.5,5998,Desligado,Demissão involuntária,
+Beatriz Souza,25,feminina,Marketing,25/02/2016,2.1,5361,Ativo,NA,13
+Maria Clara,26,fem,Financeiro,2019-06-12,1.9,R$4000,Ativo,NA,10
+Felipe Santos,quarenta,fem,TI,19/04/2020,4.6,9349,Ativo,NA, 
+Maria Clara,27,fem,TI,31/08/2017,4.7,9636,Ativo,NA,-5
+Rafael Costa,54,M,Marketing,13/06/2021,2.2,7892,Ativo,NA,-5
+Carlos Eduardo,28,fem,Marketing,06/02/2021,4.8,7132,Desligado,Demissão voluntária, 
+João da Silva,quarenta,M,Vendas,2021-07-11,4.9,4326,Ativo,NA,-5
+Carlos Eduardo,28,M,Financeiro,01/06/2015,1.2,5312,Desligado,Demissão voluntária,-5
+Beatriz Souza,quarenta,feminina,TI,2015-07-15,5.0,6321,Desligado,NA,
+Lucas Rocha,29,masc,TI,2015-12-05,4.9,3648,Desligado,Demissão voluntária, 
+Beatriz Souza,30,masc,Financeiro,2022-09-26,2.4,5986,Desligado,Demissão involuntária,20
+João da Silva,31,feminina,Marketing,26/12/2023,4.8,4312,Ativo,NA,4
+Maria Clara,32,Masculino,Marketing,13/05/2015,4.8,1568,Ativo,NA,
+Fernanda Lima,33,feminina,TI,19/10/2017,4.7,2699,Ativo,NA, 
+Lucas Rocha,34,M,Financeiro,30/03/2017,4.6,2987,Ativo,NA, 
+João da Silva,35,feminina,RH,25/12/2022,4.5,5673,Ativo,NA,
+Lucas Rocha,36,masc,Marketing,20/02/2019,3.4,3987,Desligado,Demissão voluntária,-5
+Juliana Alves,56,Feminino,TI,2015-10-31,4.4,R$4000,Ativo,NA,-5
+Fernanda Lima,23,masc,RH,30/05/2018,4.3,6454,Desligado,Demissão voluntária,
+Fernanda Lima,quarenta,M,TI,21/11/2021,3.0,R$4000,Ativo,NA, 
+Rafael Costa,22,fem,Vendas,2023-08-25,4.2,8825,Desligado,Demissão involuntária, 
+Beatriz Souza,quarenta,M,Financeiro,03/05/2018,3.8,8215,Desligado,Demissão voluntária, 
+Rafael Costa,37,M,TI,2018-11-15,4.1,10437,Desligado,Demissão involuntária,14
+Beatriz Souza,quarenta,Feminino,Vendas,2018-04-03,4.0,R$4000,Desligado,Demissão involuntária,
+Carlos Eduardo,38,Masculino,TI,30/07/2020,3.9,R$4000,Ativo,NA, 
+Ana Paula,39,Masculino,Marketing,2022-07-17,2.1,4745,Ativo,NA, 
+Juliana Alves,43,Masculino,Vendas,24/05/2021,3.8,5983,Desligado,Demissão voluntária,8
+Carlos Eduardo,40,feminina,TI,03/04/2021,3.7,8576,Ativo,NA,
+Felipe Santos,41,Feminino,Marketing,2016-07-26,3.6,7898,Desligado,Demissão involuntária,-5
+Rafael Costa,42,fem,TI,18/09/2018,3.5,7040,Desligado,Aposentadoria,
+Ana Paula,43,Feminino,Marketing,2023-02-01,3.4,5968,Ativo,NA,6
+Lucas Rocha,44,Feminino,Financeiro,2017-04-15,3.3,9726,Ativo,NA,
+Fernanda Lima,45,masc,Financeiro,2016-12-10,3.2,3658,Desligado,Demissão voluntária,
+Maria Clara,46,Feminino,TI,25/08/2023,3.1,4568,Desligado,Demissão involuntária, 
+João da Silva,47,Masculino,TI,2016-08-22,3.0,3658,Desligado,Demissão voluntária,-5
+Maria Clara,48,masc,TI,16/07/2016,2.9,R$4000,Ativo,NA,1
+Juliana Alves,49,fem,RH,22/01/2015,2.8,R$4000,Desligado,Aposentadoria,9
+João da Silva,quarenta,masc,Vendas,18/12/2016,4.7,6855,Ativo,NA,9
+Ana Paula,39,feminina,TI,2022-03-11,4.6,5698,Desligado,Demissão involuntária, 
+Carlos Eduardo,50,M,RH,2023-04-06,2.7,R$4000,Ativo,NA,-5
+Juliana Alves,51,fem,Financeiro,04/07/2022,2.6,R$4000,Ativo,NA,-5
+Maria Clara,52,feminina,TI,13/07/2021,2.5,R$4000,Ativo,NA,-5
+Beatriz Souza,53,M,Marketing,2023-08-20,2.4,9856,Ativo,NA,
+Lucas Rocha,54,M,Marketing,2019-08-31,2.3,R$4000,Ativo,NA,-5
+Fernanda Lima,43,masc,Vendas,10/09/2015,3.3,5874,Desligado,Demissão voluntária,-5
+João da Silva,55,fem,Financeiro,2020-10-03,2.8,2659,Desligado,Demissão voluntária,-5
+Beatriz Souza,quarenta,masc,Vendas,2019-10-02,2.2,2987,Desligado,Demissão voluntária,-5
+Carlos Eduardo,56,feminina,Financeiro,2019-03-27,2.1,R$4000,Desligado,Demissão voluntária,-5
+Fernanda Lima,quarenta,fem,Vendas,2020-03-11,3.1,3654,Desligado,Demissão involuntária,
+João da Silva,57,masc,Vendas,12/09/2017,1.4,9314,Ativo,NA,-5
+Lucas Rocha,quarenta,fem,RH,25/08/2020,2.0,4978,Desligado,Demissão involuntária,
+Fernanda Lima,58,feminina,TI,07/09/2015,4.0,5321,Ativo,NA,-5
+Fernanda Lima,59,Masculino,RH,13/05/2018,4.1,R$4000,Desligado,Demissão voluntária,-5
+Ana Paula,60,Masculino,Marketing,2016-07-03,2.0,7411,Desligado,Aposentadoria,
+Ana Paula,20,M,Marketing,05/10/2021,4.2,R$4000,Desligado,Demissão involuntária, 
+Ana Paula,quarenta,M,Vendas,2023-06-17,4.3,R$4000,Desligado,Demissão involuntária, 
+Beatriz Souza,30,masc,TI,2017-12-07,4.4,9635,Desligado,Aposentadoria, 
+Felipe Santos,46,masc,RH,25/04/2023,4.5,7889,Desligado,Demissão involuntária, 
+Maria Clara,quarenta,Masculino,Marketing,2022-09-06,4.6,5865,Desligado,Demissão involuntária,
+Carlos Eduardo,21,Feminino,Marketing,13/03/2022,4.4,12948,Ativo,NA,
+Maria Clara,quarenta,fem,RH,2020-02-11,4.7,4787,Desligado,Demissão voluntária,-5
+Ana Paula,23,masc,TI,2020-08-19,4.2,3753,Ativo,NA,
+Rafael Costa,24,feminina,TI,01/12/2023,4.8,R$4000,Ativo,NA,9
+Ana Paula,25,Masculino,Financeiro,13/03/2021,4.9,4807,Desligado,Demissão involuntária, 
+Rafael Costa,26,Feminino,RH,2021-05-10,2.1,8889,Ativo,NA, 
+Ana Paula,quarenta,M,Financeiro,12/11/2015,5.0,6393,Desligado,Demissão voluntária,4
+Fernanda Lima,42,fem,Financeiro,2015-11-08,3.0,7184,Desligado,Demissão voluntária, 
+Lucas Rocha,quarenta,feminina,Marketing,18/03/2019,3.1,8227,Desligado,Demissão involuntária,2
+Beatriz Souza,27,M,RH,2019-05-15,2.4,4894,Desligado,Demissão voluntária,8
+Carlos Eduardo,quarenta,Masculino,Financeiro,2021-03-22,1.4,7798,Desligado,Demissão involuntária, 
+Juliana Alves,44,M,Marketing,21/09/2017,3.7,9854,Desligado,Aposentadoria,
+João da Silva,28,feminina,Financeiro,12/05/2018,2.4,5895,Ativo,NA,14
+Carlos Eduardo,39,Masculino,TI,2019-04-06,3.2,R$4000,Desligado,Aposentadoria,
+Lucas Rocha,quarenta,Masculino,TI,2023-03-30,4.9,6326,Desligado,Demissão voluntária,11
+Rafael Costa,quarenta,M,Marketing,2023-02-26,4.8,5132,Ativo,NA,-5
+Carlos Eduardo,29,Feminino,TI,2016-09-23,4.2,1548,Desligado,Demissão involuntária,-5
+Fernanda Lima,30,M,Marketing,29/08/2021,1.4,5478,Ativo,NA,20
+Rafael Costa,31,Masculino,Vendas,2016-02-08,3.3,R$4000,Desligado,Aposentadoria,-5
+Rafael Costa,quarenta,feminina,Vendas,2016-03-04,2.7,R$4000,Desligado,Aposentadoria,-5
+Maria Clara,32,feminina,Financeiro,2019-11-30,3.4,2732,Ativo,NA,10
+Carlos Eduardo,quarenta,masc,RH,2021-04-12,4.8,R$4000,Ativo,NA,-5
+Juliana Alves,quarenta,Masculino,Marketing,26/10/2019,3.8,6560,Ativo,NA,
+Felipe Santos,quarenta,Masculino,Vendas,2022-07-10,3.5,8778,Desligado,Demissão voluntária, 
+Felipe Santos,quarenta,M,TI,21/11/2021,3.6,R$4000,Desligado,Demissão voluntária, 
+Carlos Eduardo,33,Masculino,Marketing,2021-06-12,3.7,R$4000,Ativo,NA, 
+Carlos Eduardo,34,Masculino,Marketing,08/08/2015,2.9,2398,Desligado,Demissão involuntária,-5
+Lucas Rocha,quarenta,fem,Marketing,07/05/2015,3.8,2987,Ativo,NA,-5
+Fernanda Lima,52,masc,Vendas,2023-09-10,3.2,2455,Ativo,NA,13
+Maria Clara,39,Masculino,TI,2015-12-23,4.5,R$4000,Ativo,NA, 
+Rafael Costa,35,Feminino,Marketing,24/07/2016,4.3,1548,Desligado,Demissão voluntária,
+Felipe Santos,36,masc,TI,08/10/2020,3.9,6945,Ativo,NA,
+Carlos Eduardo,quarenta,M,Financeiro,2016-08-05,4.0,9405,Ativo,NA, 
+Felipe Santos,37,feminina,Marketing,11/01/2015,4.1,4621,Ativo,NA,-5
+Maria Clara,quarenta,Masculino,TI,2018-03-07,3.2,3565,Desligado,Demissão voluntária,1
+João da Silva,38,fem,Vendas,2019-12-13,4.2,R$4000,Desligado,Demissão involuntária,8
+Felipe Santos,36,feminina,RH,2019-06-12,3.9,9032,Ativo,NA,
+Lucas Rocha,quarenta,masc,RH,2022-08-17,4.3,7629,Desligado,Demissão involuntária,-5
+João da Silva,39,fem,Vendas,2018-07-07,4.5,R$4000,Ativo,NA,2
+Rafael Costa,40,feminina,RH,16/01/2022,4.4,1544,Ativo,NA,2
+Carlos Eduardo,41,feminina,Financeiro,12/07/2018,4.5,R$4000,Desligado,Demissão voluntária, 
+Maria Clara,quarenta,M,Financeiro,25/04/2018,4.1,8512,Ativo,NA,-5
+Rafael Costa,24,feminina,TI,2019-05-04,4.6,6985,Ativo,NA,0
+Ana Paula,quarenta,fem,Vendas,2019-06-19,4.7,7187,Desligado,Demissão involuntária,12
+Fernanda Lima,quarenta,feminina,Vendas,23/06/2018,4.9,9523,Desligado,Demissão voluntária,20
+Beatriz Souza,quarenta,fem,RH,20/12/2015,4.8,8156,Ativo,NA,3
+Carlos Eduardo,quarenta,Masculino,TI,2020-10-19,1.7,4187,Ativo,NA, 
+Juliana Alves,37,feminina,Marketing,2015-11-12,4.9,5641,Ativo,NA,
+Beatriz Souza,26,Feminino,Marketing,11/01/2015,5.0,3155,Ativo,NA,5
+Fernanda Lima,quarenta,feminina,RH,2023-01-29,2.1,5262,Ativo,NA,16
+Carlos Eduardo,34,Masculino,Vendas,2018-03-02,2.0,9483,Desligado,Demissão involuntária, 
+Rafael Costa,42,feminina,Marketing,13/07/2020,2.1,R$4000,Ativo,NA,-5
+Ana Paula,43,M,Vendas,2015-01-06,2.2,7038,Ativo,NA,
+Juliana Alves,51,Feminino,TI,17/01/2016,2.3,8779,Desligado,Demissão voluntária,2
+Fernanda Lima,44,fem,Marketing,2015-09-13,3.6,,Desligado,Aposentadoria, 
+Felipe Santos,45,Feminino,Vendas,10/04/2017,1.6,7895,Desligado,NA, 
+Maria Clara,46,Masculino,TI,06/05/2016,2.4,13545,Ativo,NA,
+João da Silva,47,Masculino,Marketing,2022-08-05,2.0,4898,Desligado,Demissão involuntária,
+João da Silva,49,Feminino,Vendas,18/02/2015,2.5,8098,Desligado,Demissão voluntária,0
+Maria Clara,quarenta,fem,TI,2015-06-24,2.6,8466,Desligado,Demissão voluntária,-5
+Carlos Eduardo,quarenta,Feminino,TI,20/02/2018,2.7,R$4000,Desligado,Demissão voluntária,-5
+Ana Paula,50,Masculino,RH,14/09/2019,2.8,5458,Desligado,Demissão involuntária,-5
+Felipe Santos,51,Masculino,TI,2015-04-17,3.4,7855,Ativo,NA, 
+Rafael Costa,quarenta,fem,RH,2017-09-14,2.9,R$4000,Desligado,Aposentadoria,
+Maria Clara,52,M,TI,2015-04-26,3.0,R$4000,Desligado,Aposentadoria,
+Lucas Rocha,22,fem,RH,30/09/2021,3.1,R$4000,Ativo,NA,
+Felipe Santos,23,Feminino,Marketing,26/11/2022,3.2,5689,Desligado,Demissão voluntária, 
+Beatriz Souza,quarenta,Feminino,Financeiro,2022-03-03,3.6,8452,Ativo,NA,
+Juliana Alves,53,Feminino,RH,2015-01-08,3.3,R$4000,Desligado,Demissão voluntária,7
+Lucas Rocha,54,M,Vendas,2018-11-21,1.7,,Desligado,Demissão voluntária,
+Maria Clara,55,feminina,Vendas,29/01/2023,3.4,R$4000,Desligado,Aposentadoria, 
+Fernanda Lima,44,Masculino,Marketing,20/04/2022,1.7,4568,Ativo,NA, 
+João da Silva,56,Feminino,Financeiro,21/10/2016,3.2,3658,Ativo,NA,
+Rafael Costa,quarenta,fem,Vendas,18/09/2018,3.5,4896,Desligado,Aposentadoria,7
+Ana Paula,,Feminino,Vendas,2015-01-16,3.6,4687,Ativo,NA,3
+Maria Clara,57,fem,Financeiro,2018-06-17,3.7,6341,Desligado,Demissão involuntária,-5
+Felipe Santos,58,fem,TI,2020-03-19,3.8,11244,Ativo,NA,3
+Felipe Santos,59,masc,RH,2015-09-07,3.9,6821,Ativo,NA, 
+João da Silva,45,masc,Marketing,17/10/2020,4.0,R$4000,Ativo,NA,
+Ana Paula,47,M,Financeiro,07/04/2017,4.1,7238,Ativo,NA,-5
+Fernanda Lima,25,masc,Financeiro,2023-10-27,1.5,4428,Ativo,NA,18
+Beatriz Souza,26,Masculino,TI,2022-05-06,4.2,R$4000,Desligado,Demissão voluntária,-5
+Ana Paula,27,M,RH,2023-05-13,4.3,6351,Desligado,Aposentadoria,-5
+João da Silva,quarenta,feminina,Financeiro,2018-08-07,4.4,12576,Ativo,NA,
+Juliana Alves,28,fem,Marketing,16/11/2023,4.5,R$4000,Ativo,NA,
